@@ -1,16 +1,15 @@
-### Hi there 👋
+  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+  [![Visits Badge](https://badges.pufler.dev/visits/developercarla/developercarla)](https://badges.pufler.dev/visits/developercarla/developercarla)
+  
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+  - 🔭 I’m currently working as a Teacher!
+  - ⚡ Fun fact: I use a chromebook!
+  
+  #### 📫 How to reach me:
+  
+  
+  
+  #### 👨🏻‍💻 Languages and Tools <br />
+  <code><img height="40" src="https://cdn.neemo.com.br/uploads/settings_webdelivery/logo/4501/error-image-generic.png"></code>
 
-<!--
-**developercarla/developercarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(original by sciencepal)

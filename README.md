@@ -10,6 +10,6 @@
   
   
   #### 👨🏻‍💻 Languages and Tools <br />
-  <code><img height="40" src="https://cdn.neemo.com.br/uploads/settings_webdelivery/logo/4501/error-image-generic.png"></code>
+  python (only print)
 
 (original by sciencepal)
